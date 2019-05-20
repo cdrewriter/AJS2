@@ -17,4 +17,4 @@ var characters = [{
 }];
 var alive = characters.filter(function (item) {
   return item.health > 0;
-});
+}); 
